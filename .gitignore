@@ -1,0 +1,13 @@
+
+__pycache__/
+build/
+venv/
+env/
+*.pyc
+*.pyo
+*.pyd
+
+*.pdf
+*.zip
+*.rar
+*.rar4
