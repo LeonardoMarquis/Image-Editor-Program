@@ -1,4 +1,4 @@
-# Image Editor Program
+# Image Editor Program 🖼️
 ## Permite 
 * Aplicar filtros em uma imagem local ou baixada por meio de sua url
 * Apenas baixar a imagem
@@ -12,3 +12,11 @@
 * BlurredFilter
 * ContourFilter
 * CartoonFilter
+
+## Bibliotecas usadas 📖 
+* Os
+* Opencv
+* Abc
+* Numpy
+* Pillow
+* PyInstaller
